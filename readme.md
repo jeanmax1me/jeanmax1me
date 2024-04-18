@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
- <a href="https://portfolio-jeanmax1me.vercel.app/" target="blank">
+ <a href="https://jeanmax1me-dev.vercel.app/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="jeanmax1me" />
  </a>
  <a href="https://www.linkedin.com/in/jean-maxime-gilbert-2878a6295/" target="_blank">
